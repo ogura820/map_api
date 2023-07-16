@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "シンデレラ城",
+        "description": "シンデレラ城（Cinderella Castle）は、東京ディズニーランドのシンボルであるランドマーク。最高地点の高さは51メートルで、頭頂部には園内業務用無線のアンテナが設置されている。 ",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8808906,
+          35.63209422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "営旭町団地",
+        "description": "北海道函館市旭町1-14",
+        "marker-size": "large",
+        "marker-color": "#FF0001",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7289806,
+          41.7656663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "道営住宅旭森団地１号棟",
+        "description": "北海道函館市旭町8-1",
+        "marker-size": "large",
+        "marker-color": "#FF0002",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7271259,
+          41.76750772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "安浦稲荷神社境内",
+        "description": "北海道函館市安浦町302",
+        "marker-size": "large",
+        "marker-color": "#FF0003",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9593307,
+          41.91473659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "もと臼尻小学校グラウンド",
+        "description": "北海道函館市臼尻町595",
+        "marker-size": "large",
+        "marker-color": "#FF0004",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9406804,
+          41.93057757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼尻町６０番地裏 高台（尾札部バイパス）",
+        "description": "北海道函館市臼尻町60",
+        "marker-size": "large",
+        "marker-color": "#FF0005",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9492002,
+          41.92687148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南茅部スポーツセンター",
+        "description": "北海道函館市臼尻町604-1",
+        "marker-size": "large",
+        "marker-color": "#FF0006",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.939788,
+          41.93193267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "函館港湾合同庁舎",
+        "description": "北海道函館市海岸町24-4",
+        "marker-size": "large",
+        "marker-color": "#FF0007",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7244928,
+          41.78267232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "戸井学園",
+        "description": "北海道函館市釜谷町227",
+        "marker-size": "large",
+        "marker-color": "#FF0008",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9316806,
+          41.73853947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "公立はこだて未来大学",
+        "description": "北海道函館市亀田中野町116-2",
+        "marker-size": "large",
+        "marker-color": "#FF0009",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7669862,
+          41.84175816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "キッズ・サポート＆プロテクト体育館",
+        "description": "北海道函館市亀田中野町335-1",
+        "marker-size": "large",
+        "marker-color": "#FF0010",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7810219,
+          41.86183945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ボヌール・ピエス",
+        "description": "北海道函館市亀田町6-39",
+        "marker-size": "large",
+        "marker-color": "#FF0011",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7328636,
+          41.7941972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "興禅寺",
+        "description": "北海道函館市亀尾町39",
+        "marker-size": "large",
+        "marker-color": "#FF0012",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8577171,
+          41.79442818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "万年橋小学校",
+        "description": "北海道函館市吉川町6-22",
+        "marker-size": "large",
+        "marker-color": "#FF0013",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7305646,
+          41.79594962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "シャトーム吉川町",
+        "description": "北海道函館市吉川町7-6",
+        "marker-size": "large",
+        "marker-color": "#FF0014",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7290338,
+          41.79513397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "桔梗小学校",
+        "description": "北海道函館市桔梗1-13-2",
+        "marker-size": "large",
+        "marker-color": "#FF0015",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7280459,
+          41.83127054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中の沢小学校",
+        "description": "北海道函館市桔梗5-25-5",
+        "marker-size": "large",
+        "marker-color": "#FF0016",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7335145,
+          41.849646
+        ]
+      }
+    }
+  ]
+}
